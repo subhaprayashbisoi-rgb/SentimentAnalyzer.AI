@@ -1,5 +1,6 @@
 # Sentiment Analyzer AI
 
+## 📌 Overview
 A simple Flask web app that analyzes text sentiment.
 
 ## 🚀 Features
