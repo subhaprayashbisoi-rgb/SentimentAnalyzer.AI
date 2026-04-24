@@ -1,36 +1,24 @@
 # Sentiment Analyzer AI
 
-A simple web application that analyzes text sentiment using Python Flask.
+A simple Flask web app that analyzes text sentiment.
 
 ## 🚀 Features
-- Detects Positive 😊, Negative 😔, and Neutral 😐 sentiment
-- Simple UI with input box
-- Fast and lightweight
+* Detects Positive, Negative, and Neutral sentiment
+* Fast and easy to use
 
 ## 🛠 Tech Stack
-- Python (Flask)
-- HTML
+Python (Flask), HTML
 
-## ▶️ How to Run
-
-1. Install Flask
+## ▶️ Run
+```bash
 pip install flask
-
-2. Run the app
 python app.py
+```
 
-3. Open browser
-http://127.0.0.1:5000
+Open: http://127.0.0.1:5000
 
-## 📌 Example
-Input: "I am happy"
-Output: Positive 😊
 
-## 📂 Project Structure
-SentimentAnalyzerAI/
-│── app.py
-│── templates/
-│   └── index.html
-
-## 👨‍💻 Author
-Subha Prayash Bisoi
+#👤 Author
+👨‍💻  *Subha Prayash Bisoi*
+🔗 GitHub: https://github.com/subhaprayashbisoi-rgb
+📧 Email: subhaprayashbisoi@gmail.com
